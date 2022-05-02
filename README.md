@@ -56,7 +56,7 @@ and the moment I lift the trophy of the PDC World Darts Championship!
 3. I function better with people around me
 
 ## Just a random gif
-![Cartman]("C:\Users\tuurp\OneDrive\Documents\BeCode\Projects\MarkdownFile\200w.gif")
+<img src="https://media1.giphy.com/media/ZMWVIXVk7Q2sw/200.gif" width="500"/>
 
 ### References
 - [King Arthur](https://www.youtube.com/watch?v=AmtSj4wH5Rg)
