@@ -16,9 +16,10 @@ For it was a very hard one to get done, I am quite happy that volleybal and dart
 
 ## What I can do that might surprise you
 As a king, everything is known about me, I do not have many more secrets -a negative perk that comes with it-
- but maybe this one will suprise you...
+but maybe this one will suprise you...
+
 I speak some Japanese -Not bad for an English King, is it?-,
- it still is at basic level at best, but please cut me some slack.
+it still is at basic level at best, but please cut me some slack.
 
 
 ## Things my Universe absolutely has to have
@@ -38,7 +39,7 @@ who can maybe help me when I need it -of course, they can rely on me as well. Yo
 
 ## This scares the crap out of me
 * The Knights who say 'Ni' -I overcame this fear and defeated them, though-
-* Going mad. Notthing drives me more mad than the idea of getting mad. -Hope I die before that happens-
+* Going mad. Nothing drives me more mad than the idea of getting mad. -Hope I die before that happens-
 
 ## This is why I am alive
 This question is an easy one, no thinking involved.
@@ -58,9 +59,9 @@ and the moment I lift the trophy of the PDC World Darts Championship!
 ![Cartman]("C:\Users\tuurp\OneDrive\Documents\BeCode\Projects\MarkdownFile\200w.gif")
 
 ### References
-[King Arthur](https://www.youtube.com/watch?v=AmtSj4wH5Rg)
-[Cartman](https://www.southparkstudios.com/)
+- [King Arthur](https://www.youtube.com/watch?v=AmtSj4wH5Rg)
+- [Cartman](https://www.southparkstudios.com/)
 
 ### Accounts
-[Chess](https://www.chess.com/member/guinevereshusband)
-[Twitch](https://www.twitch.tv/guinevereshusband)
+- [Chess](https://www.chess.com/member/guinevereshusband)
+- [Twitch](https://www.twitch.tv/guinevereshusband)
