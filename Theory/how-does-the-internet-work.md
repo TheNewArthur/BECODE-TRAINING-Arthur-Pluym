@@ -40,3 +40,8 @@ Google.com will create its response and add all the adresses that were on the in
 That way the message will go the exact same route as it came.
 Every router will take its own adress away so that the next destination is known.
 This goes on until the response reaches the destination.
+
+
+
+
+This theory file has been reviewed by Djager Al-Yussef
